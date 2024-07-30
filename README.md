@@ -3,6 +3,9 @@
 ## Project Overview
 This project aims to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
 
+## Data Source
+The problem statement and data for this project were taken from [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=5&pageSize=5).
+
 ## Analysis Tasks
 1. **Sales Variation by Day and Hour**
    - Analyze how sales vary by day of the week and hour of the day.
@@ -31,9 +34,4 @@ This project aims to analyze retail sales data to gain actionable insights that 
 ## Dashboard
 ![Dashboard](Dashboard%20view%20(Desired%20Result).PNG)
 
-## Instructions
-1. Clone the repository.
-2. Open the Jupyter notebook or run the Python script to view the analysis.
 
-## License
-This project is licensed under the MIT License.

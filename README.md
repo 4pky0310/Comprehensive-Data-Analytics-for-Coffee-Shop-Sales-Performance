@@ -24,12 +24,12 @@ This project aims to analyze retail sales data to gain actionable insights that 
    - Analyze sales by product category and type.
 
 ## Files
-- `data/coffee sales data.xlsx`: The sales data file.
-- `docs/Probelem Staement (task).pdf`: The problem statement.
-- `images/Dashboard view (Desired Result).PNG`: The dashboard view.
+- `coffee sales data.xlsx`: The sales data file.
+- `Probelem Staement (task).pdf`: The problem statement.
+- `Dashboard view (Desired Result).PNG`: The dashboard view.
 
 ## Dashboard
-![Dashboard](images/Dashboard%20view%20(Desired%20Result).PNG)
+![Dashboard](Dashboard%20view%20(Desired%20Result).PNG)
 
 ## Instructions
 1. Clone the repository.

@@ -1,4 +1,4 @@
-# Comprehensive-Data-Analytics-for-Coffee-Shop-Sales-Performance
+# Comprehensive Data Analytics for Coffee Shop Sales Performance
 
 ## Project Overview
 This project aims to analyze retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
@@ -24,12 +24,12 @@ This project aims to analyze retail sales data to gain actionable insights that 
    - Analyze sales by product category and type.
 
 ## Files
-- `coffee sales data`: The sales data file.
-- `Problem Statement(task).pdf`: The problem statement.
-- `Dashboard view (Desired Result).PNG`: The dashboard view.
+- `data/coffee sales data.xlsx`: The sales data file.
+- `docs/Probelem Staement (task).pdf`: The problem statement.
+- `images/Dashboard view (Desired Result).PNG`: The dashboard view.
 
 ## Dashboard
-![Dashboard](Dashboard view (Desired Result).PNG)
+![Dashboard](images/Dashboard%20view%20(Desired%20Result).PNG)
 
 ## Instructions
 1. Clone the repository.
@@ -37,4 +37,3 @@ This project aims to analyze retail sales data to gain actionable insights that 
 
 ## License
 This project is licensed under the MIT License.
-
